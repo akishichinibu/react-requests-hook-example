@@ -1,0 +1,16 @@
+.demo-api-list div div.header {
+  display: flex;
+  align-content: flex-start;
+}
+
+.demo-api-list label {
+  margin-right: 4px;
+}
+
+.demo-api-list span {
+  margin-right: 4px;
+}
+
+.demo-api-list strong {
+  text-decoration: underline;
+}

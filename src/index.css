@@ -1,0 +1,13 @@
+table, th, td {
+  border: 1px solid black;
+}
+
+.container {
+  margin: 0.5rem;
+  padding: 0.5rem;
+  border-style: solid;
+}
+
+.container div {
+  margin: 4px;
+}
